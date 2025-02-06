@@ -21,7 +21,7 @@ export default function TransactionsTable() {
       </div>
 
       {/* Table */}
-      <div className="w-full overflow-x-auto bg-white  px-7 brounded-3xl">
+      <div className="w-full overflow-x-auto bg-white  px-7 rounded-3xl">
         <div className="hidden md:grid grid-cols-7 gap-4  text-base text-[#718EBF] font-medium border-b-[1px] border-[#E6EFF5] pt-6 pb-2">
           <div className="">Description</div>
           <div>Transaction ID</div>

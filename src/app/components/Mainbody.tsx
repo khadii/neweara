@@ -7,7 +7,7 @@ import { FaPlus } from 'react-icons/fa6'
 
 export default function Mainbody() {
   return (
-    <div className='bg-[#EDF0F7]'>
+    <div className='bg-[#EDF0F7] h-screen'>
 
 
 <div className="px-6 pt-6 grid grid-cols-1 lg:grid-cols-3 gap-6 w-full mb-6">
